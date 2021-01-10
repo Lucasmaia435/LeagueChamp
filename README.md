@@ -1,8 +1,37 @@
 # leagueChamp
 
-A new Flutter project.
+A Flutter app for showing League of Legends' characters, aka Champions, data.
+
 
 ## Getting Started
+
+### Install [Flutter SKD](https://flutter.dev)
+
+---
+Run `flutter pub get`
+
+```bash
+$ flutter pub get
+```
+Run `flutter run` or `flutter install` (with a device or emulator connected)
+
+```bash
+$ flutter run
+```
+```bash
+$ flutter install
+```
+## Data
+
+This app is using [Data Dragon](https://developer.riotgames.com/docs/lol#data-dragon).
+
+---
+
+
+  Search                        |  App    
+:-------------------------:|:-------------------------:
+![Search champion](search_champion.gif)  |  ![Select champion](select_champion.gif)
+## Getting Started (Flutter)
 
 This project is a starting point for a Flutter application.
 
